@@ -4,7 +4,7 @@ Working with Pitt's virtual lab platform to run ArcGIS and properly save work in
 
 # THEORY
 
-ArcGIS applications can take a lot of computing power to run. To avoid over-taxing personal computer, students can use Pitt's Virtual Lab platform to access ArcGIS software.
+Some ArcGIS applications take a lot of computing power to run. To avoid over-taxing your personal computer, students can use Pitt's Virtual Lab platform to access ArcGIS software.
 
 # WARNING
 
