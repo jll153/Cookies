@@ -1,78 +1,46 @@
 # INTRODUCTION
 
-A Beginner's Guide to Baking Chocolate Chip Cookies. No Prior Baking Experience Necessary.
+Working with Pitt's virtual lab platform to run ArcGIS and properly save work in University OneDrive.
 
 # THEORY
 
-- Mixing the ingredients
-- Cooking the dough at the right temperature
-- Cooking the dough for the right length of time
+ArcGIS applications can take a lot of computing power to run. To avoid over-taxing personal computer, students can use Pitt's Virtual Lab platform to access ArcGIS software.
 
 # WARNING
 
-Burns can cause serious or fatal injury. Be sure to wear oven mits whenever taking items in and out of a hot oven. 
-
-<img src="safety.jpeg"
-     alt = "Wearing Proper Protection icon" />
+Work not saved to proper location may be deleted.
 
 
 # STEPS
 
-### 1.) Preheat Oven to 375 Degrees Fahrenheit
+### 1.) Log in to student portal
+     
+### 2.) Open Virtual Lab
+<img src="steptwo.jpeg"
+     alt = "Step Two icon" />
 
-### 2.) In Large Mixing Bowl Beat 1 Cup of Butter
-**Note:** Once completed with this step butter should look smooth and creamy
-
-### 3.) Add to Butter 1 Cup of Brown Sugar and 1/2 Cup of Granulated Sugar
-**Note:** Granulated sugar is white sugar
-
-### 4.) Mix Sugars and Butter 
-**Note:** Sugar and butter mixture should look smooth after step 4
-
-### 5.) Add 2 Eggs
-
-### 6.) Add 1/2 tsp Vanilla Extract
-
-### 7.) Mix Everything
-
-### 8.) In a Separate Bowl, Mix Dry Ingredients
-- 2 1/2 cups flour
-- 1 tsp baking soda
-- 1/8 tsp salt
-
-### 9.) Add Dry Ingredients to Wet Ingredients and Mix 
-**Note:** Wet Ingredients are ingredients described in steps 2-6
-
-### 10.) Stir in 1 Bag of Chocolate Chips
-**Note:** If using an electric mixer, remove beaters and stir in chocolate chips by hand
-
-### 11.) With a Cookie Scoop Place Dough on Cookie Sheet
-**Note:** Dough should be placed 1 inch apart
-
-<img src="sheet.jpeg"
-     alt = "Cookie Sheet icon" />
+### 3.) Select ArcMap application
+<img src="stepthree.jpeg"
+     alt = "Step Three icon" />
     
-### 12.) Bake for 8 Minutes
+<img src="arc.jpeg"
+     alt = "ArcMap Application icon" />
 
+### 4.) Open Catalog tab on the right-hand side of your screen
+<img src="stepfour.jpeg"
+     alt = "Step Four icon" />
 
-# _**Enjoy**_
-<img src="bite.jpeg"
-     alt = "Cookie With Bite icon" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
+### 5.) Right click on 'Folder Connections'
+     
+### 6.) Select 'Connect to Folder'
+<img src="stepsix.png"
+     alt = "Step Six icon" />
+     
+### 7.) In 'Connect to Folder' window, select your OneDrive
+**Note:** If you have a specific folder within your Onedrive you want your work saved to, select your OneDrive and then the folder name.
+<img src="stepseven.jpeg"
+     alt = "Step Seven icon" />
+     
+     
+ <img src="folder.jpeg"
+     alt = "More Folders w/in OneDrive icon" />
