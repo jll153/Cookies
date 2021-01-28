@@ -44,3 +44,5 @@ Work not saved to proper location may be deleted.
      
  <img src="folder.jpeg"
      alt = "More Folders w/in OneDrive icon" />
+
+### 8.) Click OK
